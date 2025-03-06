@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Web dev and much more...<br>🎯 Goals:to create many Web Applications for fun...</p>
+<p align="left">📚 I'm currently learning Web dev and much more...<br>🎯 Goals: to create many Web Applications for fun...</p>
 
 ###
  
