@@ -10,10 +10,10 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Web dev and much more...<br>🎯 Goals:</p>
+<p align="left">📚 I'm currently learning Web dev and much more...<br>🎯 Goals:to create many Web Applications for fun...</p>
 
 ###
-
+ 
 <h2 align="left">I code with</h2>
 
 ###
